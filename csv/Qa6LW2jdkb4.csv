@@ -1,17 +1,17 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Last Christmas,Wham!,00:22:37,00:27:06,269,Qa6LW2jdkb4
-2,It's Beginning To Look A Lot Like Christmas,"Meredith Wilson, Perry Como, et al",00:31:09,00:33:42,153,Qa6LW2jdkb4
-3,All I Want for Christmas Is You,Mariah Carey,00:36:49,00:41:38,289,Qa6LW2jdkb4
-4,On and On,Stephen Bishop,00:43:20,00:46:16,176,Qa6LW2jdkb4
-5,Popular,Wicked,00:49:18,00:53:00,222,Qa6LW2jdkb4
-6,The Chipmunk Song (Christmas Don’t Be Late),Alvin & The Chipmunks,00:54:13,00:56:34,141,Qa6LW2jdkb4
-7,All I Ask of You,The Phantom of the Opera,00:57:42,01:01:47,245,Qa6LW2jdkb4
-8,"Gee, I'm Glad I'm No One Else But Me",Anne of Green of Gables: The Musical,01:05:21,01:07:41,140,Qa6LW2jdkb4
-9,Seikan Hikou,Macross Frontier,01:13:49,01:17:39,230,Qa6LW2jdkb4
-10,"Where Are You, Christmas?",Faith Hill,01:21:16,01:25:18,242,Qa6LW2jdkb4
-11,How 'Bout a Dance,Bonnie and Clyde,01:29:54,01:32:41,167,Qa6LW2jdkb4
-12,ビリビリ Be with U,Kaminari Clara,01:34:02,01:38:31,269,Qa6LW2jdkb4
-13,Playing Favourites,Kaminari Clara,01:40:29,01:43:35,186,Qa6LW2jdkb4
-14,Judas,Lady Gaga,01:45:11,01:49:22,251,Qa6LW2jdkb4
-15,"You’re a Mean One, Mr. Grinch",Thurl Ravenscroft,01:50:11,01:52:59,168,Qa6LW2jdkb4
-16,Die With A Smile,Lady Gaga and Bruno Mars,01:54:44,01:58:51,247,Qa6LW2jdkb4
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1030,Qa6LW2jdkb4,1,Last Christmas,Wham!,00:22:37,1357,00:27:06,269
+1031,Qa6LW2jdkb4,2,It's Beginning To Look A Lot Like Christmas,"Meredith Wilson, Perry Como, et al",00:31:09,1869,00:33:42,153
+1032,Qa6LW2jdkb4,3,All I Want for Christmas Is You,Mariah Carey,00:36:49,2209,00:41:38,289
+1033,Qa6LW2jdkb4,4,On and On,Stephen Bishop,00:43:20,2600,00:46:16,176
+1034,Qa6LW2jdkb4,5,Popular,Wicked,00:49:18,2958,00:53:00,222
+1035,Qa6LW2jdkb4,6,The Chipmunk Song (Christmas Don’t Be Late),Alvin & The Chipmunks,00:54:13,3253,00:56:34,141
+1036,Qa6LW2jdkb4,7,All I Ask of You,The Phantom of the Opera,00:57:42,3462,01:01:47,245
+1037,Qa6LW2jdkb4,8,"Gee, I'm Glad I'm No One Else But Me",Anne of Green of Gables: The Musical,01:05:21,3921,01:07:41,140
+1038,Qa6LW2jdkb4,9,Seikan Hikou,Macross Frontier,01:13:49,4429,01:17:39,230
+1039,Qa6LW2jdkb4,10,"Where Are You, Christmas?",Faith Hill,01:21:16,4876,01:25:18,242
+1040,Qa6LW2jdkb4,11,How 'Bout a Dance,Bonnie and Clyde,01:29:54,5394,01:32:41,167
+1041,Qa6LW2jdkb4,12,ビリビリ Be with U,Kaminari Clara,01:34:02,5642,01:38:31,269
+1042,Qa6LW2jdkb4,13,Playing Favourites,Kaminari Clara,01:40:29,6029,01:43:35,186
+1043,Qa6LW2jdkb4,14,Judas,Lady Gaga,01:45:11,6311,01:49:22,251
+1044,Qa6LW2jdkb4,15,"You’re a Mean One, Mr. Grinch",Thurl Ravenscroft,01:50:11,6611,01:52:59,168
+1045,Qa6LW2jdkb4,16,Die With A Smile,Lady Gaga and Bruno Mars,01:54:44,6884,01:58:51,247

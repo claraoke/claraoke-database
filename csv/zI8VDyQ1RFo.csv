@@ -1,3 +1,3 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Lachryma,Ghost,00:59:47,01:04:18,271,zI8VDyQ1RFo
-2,"You Belong with Me (2x speed, correct lyrics optional)",Taylor Swift,01:26:21,01:28:47,146,zI8VDyQ1RFo
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1669,zI8VDyQ1RFo,1,Lachryma,Ghost,00:59:47,3587,01:04:18,271
+1670,zI8VDyQ1RFo,2,"You Belong with Me (2x speed, correct lyrics optional)",Taylor Swift,01:26:21,5181,01:28:47,146

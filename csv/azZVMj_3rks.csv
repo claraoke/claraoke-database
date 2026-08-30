@@ -1,14 +1,14 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,"""Yellow"" Blue",Coldplay,00:25:32,00:29:57,265,azZVMj_3rks
-2,A Decade in Blue Yellow,Eiffel 65,00:35:53,00:39:26,213,azZVMj_3rks
-3,C.R.I.N.G.E,Unknown Artist,00:52:35,00:53:18,43,azZVMj_3rks
-4,Bananaphone I'm Yellow,Raffi,01:00:51,01:04:04,193,azZVMj_3rks
-5,Don't Stop Me Now,Queen (Clara yellow version),01:07:42,01:11:24,222,azZVMj_3rks
-6,Tainted Love Blue,Soft Cell,01:18:39,01:21:14,155,azZVMj_3rks
-7,Don't Cha (Yellow),The Pussycat Dolls,01:23:13,01:26:49,216,azZVMj_3rks
-8,Some Bluetimes,Britney Spears,01:27:10,01:31:14,244,azZVMj_3rks
-9,Imagine(Yellow),John Lennon,01:32:44,01:35:45,181,azZVMj_3rks
-10,My Yellow Way,Frank sinatra,01:44:04,01:48:39,275,azZVMj_3rks
-11,Ave Maria (Clara yellow version),Franz Schubert,01:49:29,01:53:59,270,azZVMj_3rks
-12,"Careless ""Blue"" Whisper",George Micheal,01:56:00,02:00:37,277,azZVMj_3rks
-13,M Yellow,Spacekats,02:06:05,02:09:17,192,azZVMj_3rks
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+245,azZVMj_3rks,1,"""Yellow"" Blue",Coldplay,00:25:32,1532,00:29:57,265
+246,azZVMj_3rks,2,A Decade in Blue Yellow,Eiffel 65,00:35:53,2153,00:39:26,213
+247,azZVMj_3rks,3,C.R.I.N.G.E,Unknown Artist,00:52:35,3155,00:53:18,43
+248,azZVMj_3rks,4,Bananaphone I'm Yellow,Raffi,01:00:51,3651,01:04:04,193
+249,azZVMj_3rks,5,Don't Stop Me Now,Queen (Clara yellow version),01:07:42,4062,01:11:24,222
+250,azZVMj_3rks,6,Tainted Love Blue,Soft Cell,01:18:39,4719,01:21:14,155
+251,azZVMj_3rks,7,Don't Cha (Yellow),The Pussycat Dolls,01:23:13,4993,01:26:49,216
+252,azZVMj_3rks,8,Some Bluetimes,Britney Spears,01:27:10,5230,01:31:14,244
+253,azZVMj_3rks,9,Imagine(Yellow),John Lennon,01:32:44,5564,01:35:45,181
+254,azZVMj_3rks,10,My Yellow Way,Frank sinatra,01:44:04,6244,01:48:39,275
+255,azZVMj_3rks,11,Ave Maria (Clara yellow version),Franz Schubert,01:49:29,6569,01:53:59,270
+256,azZVMj_3rks,12,"Careless ""Blue"" Whisper",George Micheal,01:56:00,6960,02:00:37,277
+257,azZVMj_3rks,13,M Yellow,Spacekats,02:06:05,7565,02:09:17,192

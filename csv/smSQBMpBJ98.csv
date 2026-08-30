@@ -1,19 +1,19 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,"卒業しないで、先輩！ (Don't Graduate, Senpai!)",Satellite Young,00:07:35,00:11:22,227,smSQBMpBJ98
-2,Picture You,Chappell Roan,00:14:25,00:17:28,183,smSQBMpBJ98
-3,Lucky,Britney Spears,00:23:23,00:26:46,203,smSQBMpBJ98
-4,Boulevard of Broken Dreams,Green Day,00:30:04,00:34:24,260,smSQBMpBJ98
-5,I Knew You Were Trouble,Taylor Swift,00:36:18,00:40:00,222,smSQBMpBJ98
-6,All Star,Smash Mouth,00:41:58,00:45:17,199,smSQBMpBJ98
-7,The Only Exception,Paramore,00:48:54,00:53:18,264,smSQBMpBJ98
-8,Miss Celie's Blues (Sister),Quincy Jones,00:54:55,00:57:25,150,smSQBMpBJ98
-9,KING,Kanaria,01:01:48,01:04:03,135,smSQBMpBJ98
-10,A Million Miles Away,Adam Jacobs & Courtney Reed (Aladdin The Musical),01:05:07,01:08:26,199,smSQBMpBJ98
-11,Let It Go,Idina Menzel,01:11:08,01:14:48,220,smSQBMpBJ98
-12,悲しみがとまらない (I CAN'T STOP THE LONELINESS),杏里 (Anri),01:15:23,01:19:47,264,smSQBMpBJ98
-13,Unholy,"Sam Smith, Kim Petras",01:24:09,01:26:49,160,smSQBMpBJ98
-14,Creep,Radiohead,01:30:12,01:34:08,236,smSQBMpBJ98
-15,レンラクマダー？ (Why Don't you call me yet?),ライブP (Live-P),01:37:30,01:42:26,296,smSQBMpBJ98
-16,It's All Been Done,Barenaked Ladies,01:44:37,01:47:57,200,smSQBMpBJ98
-17,Popular,Kristin Chenoweth,01:49:05,01:52:46,221,smSQBMpBJ98
-18,風になる (Kaze ni naru),つじあやの (Ayano Tsuji) [弾き語り],01:55:17,01:59:07,230,smSQBMpBJ98
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1200,smSQBMpBJ98,1,"卒業しないで、先輩！ (Don't Graduate, Senpai!)",Satellite Young,00:07:35,455,00:11:22,227
+1201,smSQBMpBJ98,2,Picture You,Chappell Roan,00:14:25,865,00:17:28,183
+1202,smSQBMpBJ98,3,Lucky,Britney Spears,00:23:23,1403,00:26:46,203
+1203,smSQBMpBJ98,4,Boulevard of Broken Dreams,Green Day,00:30:04,1804,00:34:24,260
+1204,smSQBMpBJ98,5,I Knew You Were Trouble,Taylor Swift,00:36:18,2178,00:40:00,222
+1205,smSQBMpBJ98,6,All Star,Smash Mouth,00:41:58,2518,00:45:17,199
+1206,smSQBMpBJ98,7,The Only Exception,Paramore,00:48:54,2934,00:53:18,264
+1207,smSQBMpBJ98,8,Miss Celie's Blues (Sister),Quincy Jones,00:54:55,3295,00:57:25,150
+1208,smSQBMpBJ98,9,KING,Kanaria,01:01:48,3708,01:04:03,135
+1209,smSQBMpBJ98,10,A Million Miles Away,Adam Jacobs & Courtney Reed (Aladdin The Musical),01:05:07,3907,01:08:26,199
+1210,smSQBMpBJ98,11,Let It Go,Idina Menzel,01:11:08,4268,01:14:48,220
+1211,smSQBMpBJ98,12,悲しみがとまらない (I CAN'T STOP THE LONELINESS),杏里 (Anri),01:15:23,4523,01:19:47,264
+1212,smSQBMpBJ98,13,Unholy,"Sam Smith, Kim Petras",01:24:09,5049,01:26:49,160
+1213,smSQBMpBJ98,14,Creep,Radiohead,01:30:12,5412,01:34:08,236
+1214,smSQBMpBJ98,15,レンラクマダー？ (Why Don't you call me yet?),ライブP (Live-P),01:37:30,5850,01:42:26,296
+1215,smSQBMpBJ98,16,It's All Been Done,Barenaked Ladies,01:44:37,6277,01:47:57,200
+1216,smSQBMpBJ98,17,Popular,Kristin Chenoweth,01:49:05,6545,01:52:46,221
+1217,smSQBMpBJ98,18,風になる (Kaze ni naru),つじあやの (Ayano Tsuji) [弾き語り],01:55:17,6917,01:59:07,230

@@ -1,24 +1,24 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Starman,David Bowie,00:01:24,00:05:34,250,S64BFpeZv4Y
-2,I Don't Like Mondays,The Boomtown Rats,00:08:59,00:13:10,251,S64BFpeZv4Y
-3,Lovers in a Dangerous Time,Bruce Cockburn,00:16:23,00:20:36,253,S64BFpeZv4Y
-4,Army Dreamers,Kate Bush,00:22:46,00:25:58,192,S64BFpeZv4Y
-5,Jack's Lament,The Nightmare Before Christmas (Danny Elfman),00:27:29,00:30:41,192,S64BFpeZv4Y
-6,Goodbye Yellow Brick Road,Elton John,00:32:32,00:35:46,194,S64BFpeZv4Y
-7,Me and Mia,Ted Leo and The Pharmacists,00:40:00,00:43:31,211,S64BFpeZv4Y
-8,Close to You,Carpenters,00:47:03,00:50:49,226,S64BFpeZv4Y
-9,You've Got a Friend in Me,Toy Story (Randy Newman),00:53:29,00:55:32,123,S64BFpeZv4Y
-10,I Don’t Wanna See You With Her,Maria Mena,00:57:56,01:02:37,281,S64BFpeZv4Y
-11,21 Guns,Green Day,01:04:41,01:09:06,265,S64BFpeZv4Y
-12,My Immortal,Evanescence,01:13:59,01:18:19,260,S64BFpeZv4Y
-13,We're Not Gonna Take It,Twisted Sister,01:22:16,01:26:36,260,S64BFpeZv4Y
-14,Can't Buy Me Love,The Beatles,01:32:43,01:34:56,133,S64BFpeZv4Y
-15,Pure Imagination,Willy Wonka (Gene Wilder),01:37:10,01:41:37,267,S64BFpeZv4Y
-16,It's Tough to Be a God,The Road to El Dorado,01:43:06,01:45:30,144,S64BFpeZv4Y
-17,Pink Pony Club,Chappell Roan,01:47:17,01:51:41,264,S64BFpeZv4Y
-18,One of Your Girls,Troye Sivan,01:52:24,01:55:22,178,S64BFpeZv4Y
-19,Wicked Little Town,Hedwig and the Angry Inch,01:56:10,02:00:10,240,S64BFpeZv4Y
-20,Born This Way,Lady Gaga,02:00:21,02:04:41,260,S64BFpeZv4Y
-21,As the World Falls Down,David Bowie,02:07:14,02:12:00,286,S64BFpeZv4Y
-22,Express Yourself,Madonna,02:12:45,02:17:10,265,S64BFpeZv4Y
-23,Moon River,"Audrey Hepburn, Andy Williams et al",02:18:29,02:22:04,215,S64BFpeZv4Y
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1167,S64BFpeZv4Y,1,Starman,David Bowie,00:01:24,84,00:05:34,250
+1168,S64BFpeZv4Y,2,I Don't Like Mondays,The Boomtown Rats,00:08:59,539,00:13:10,251
+1169,S64BFpeZv4Y,3,Lovers in a Dangerous Time,Bruce Cockburn,00:16:23,983,00:20:36,253
+1170,S64BFpeZv4Y,4,Army Dreamers,Kate Bush,00:22:46,1366,00:25:58,192
+1171,S64BFpeZv4Y,5,Jack's Lament,The Nightmare Before Christmas (Danny Elfman),00:27:29,1649,00:30:41,192
+1172,S64BFpeZv4Y,6,Goodbye Yellow Brick Road,Elton John,00:32:32,1952,00:35:46,194
+1173,S64BFpeZv4Y,7,Me and Mia,Ted Leo and The Pharmacists,00:40:00,2400,00:43:31,211
+1174,S64BFpeZv4Y,8,Close to You,Carpenters,00:47:03,2823,00:50:49,226
+1175,S64BFpeZv4Y,9,You've Got a Friend in Me,Toy Story (Randy Newman),00:53:29,3209,00:55:32,123
+1176,S64BFpeZv4Y,10,I Don’t Wanna See You With Her,Maria Mena,00:57:56,3476,01:02:37,281
+1177,S64BFpeZv4Y,11,21 Guns,Green Day,01:04:41,3881,01:09:06,265
+1178,S64BFpeZv4Y,12,My Immortal,Evanescence,01:13:59,4439,01:18:19,260
+1179,S64BFpeZv4Y,13,We're Not Gonna Take It,Twisted Sister,01:22:16,4936,01:26:36,260
+1180,S64BFpeZv4Y,14,Can't Buy Me Love,The Beatles,01:32:43,5563,01:34:56,133
+1181,S64BFpeZv4Y,15,Pure Imagination,Willy Wonka (Gene Wilder),01:37:10,5830,01:41:37,267
+1182,S64BFpeZv4Y,16,It's Tough to Be a God,The Road to El Dorado,01:43:06,6186,01:45:30,144
+1183,S64BFpeZv4Y,17,Pink Pony Club,Chappell Roan,01:47:17,6437,01:51:41,264
+1184,S64BFpeZv4Y,18,One of Your Girls,Troye Sivan,01:52:24,6744,01:55:22,178
+1185,S64BFpeZv4Y,19,Wicked Little Town,Hedwig and the Angry Inch,01:56:10,6970,02:00:10,240
+1186,S64BFpeZv4Y,20,Born This Way,Lady Gaga,02:00:21,7221,02:04:41,260
+1187,S64BFpeZv4Y,21,As the World Falls Down,David Bowie,02:07:14,7634,02:12:00,286
+1188,S64BFpeZv4Y,22,Express Yourself,Madonna,02:12:45,7965,02:17:10,265
+1189,S64BFpeZv4Y,23,Moon River,"Audrey Hepburn, Andy Williams et al",02:18:29,8309,02:22:04,215

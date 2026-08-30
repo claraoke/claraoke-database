@@ -1,19 +1,19 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,When September Ends,Green Day,00:05:11,00:09:35,264,tW8tT8agDG4
-2,Primadonna,Marina and the Diamonds,00:14:29,00:18:15,226,tW8tT8agDG4
-3,21 Guns,Green Day,00:22:26,00:27:50,324,tW8tT8agDG4
-4,Numb,Linkin Park,00:35:20,00:38:24,184,tW8tT8agDG4
-5,Welcome to My Life,Simple Plan,00:43:17,00:46:40,203,tW8tT8agDG4
-6,"Sugar, We're Goin' Down",Fall Out Boy,00:54:38,00:58:20,222,tW8tT8agDG4
-7,Hellfire,Tony Jay (The Hunchback of Notre Dame),01:00:05,01:03:45,220,tW8tT8agDG4
-8,Goodbye to Love,The Carpenters,01:11:26,01:15:20,234,tW8tT8agDG4
-9,This Is Hell (an attempt),Elvis Costello,01:18:47,01:19:24,37,tW8tT8agDG4
-10,How to Save a Life,The Fray,01:19:45,01:24:06,261,tW8tT8agDG4
-11,Mad World,Michael Andrews,01:24:27,01:27:28,181,tW8tT8agDG4
-12,Thunder,Boys Like Girls,01:28:45,01:33:44,299,tW8tT8agDG4
-13,Fake Happy,Paramore,01:34:02,01:37:53,231,tW8tT8agDG4
-14,My Immortal,Evanescence,01:41:53,01:46:15,262,tW8tT8agDG4
-15,Wonderwall,Oasis,01:51:32,01:55:49,257,tW8tT8agDG4
-16,Welcome to the Black Parade,My Chemical Romance,01:56:05,02:01:15,310,tW8tT8agDG4
-17,Wicked Little Town,Stephen Trask (Hedwig and the Angry Inch),02:02:42,02:06:42,240,tW8tT8agDG4
-18,Plastic Love,Mariya Takeuchi,02:12:13,02:17:05,292,tW8tT8agDG4
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1318,tW8tT8agDG4,1,When September Ends,Green Day,00:05:11,311,00:09:35,264
+1319,tW8tT8agDG4,2,Primadonna,Marina and the Diamonds,00:14:29,869,00:18:15,226
+1320,tW8tT8agDG4,3,21 Guns,Green Day,00:22:26,1346,00:27:50,324
+1321,tW8tT8agDG4,4,Numb,Linkin Park,00:35:20,2120,00:38:24,184
+1322,tW8tT8agDG4,5,Welcome to My Life,Simple Plan,00:43:17,2597,00:46:40,203
+1323,tW8tT8agDG4,6,"Sugar, We're Goin' Down",Fall Out Boy,00:54:38,3278,00:58:20,222
+1324,tW8tT8agDG4,7,Hellfire,Tony Jay (The Hunchback of Notre Dame),01:00:05,3605,01:03:45,220
+1325,tW8tT8agDG4,8,Goodbye to Love,The Carpenters,01:11:26,4286,01:15:20,234
+1326,tW8tT8agDG4,9,This Is Hell (an attempt),Elvis Costello,01:18:47,4727,01:19:24,37
+1327,tW8tT8agDG4,10,How to Save a Life,The Fray,01:19:45,4785,01:24:06,261
+1328,tW8tT8agDG4,11,Mad World,Michael Andrews,01:24:27,5067,01:27:28,181
+1329,tW8tT8agDG4,12,Thunder,Boys Like Girls,01:28:45,5325,01:33:44,299
+1330,tW8tT8agDG4,13,Fake Happy,Paramore,01:34:02,5642,01:37:53,231
+1331,tW8tT8agDG4,14,My Immortal,Evanescence,01:41:53,6113,01:46:15,262
+1332,tW8tT8agDG4,15,Wonderwall,Oasis,01:51:32,6692,01:55:49,257
+1333,tW8tT8agDG4,16,Welcome to the Black Parade,My Chemical Romance,01:56:05,6965,02:01:15,310
+1334,tW8tT8agDG4,17,Wicked Little Town,Stephen Trask (Hedwig and the Angry Inch),02:02:42,7362,02:06:42,240
+1335,tW8tT8agDG4,18,Plastic Love,Mariya Takeuchi,02:12:13,7933,02:17:05,292

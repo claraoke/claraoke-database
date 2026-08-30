@@ -1,6 +1,6 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,It's time to say Goodbye,"Sarah Brightman, Andrea Bocelli",01:09:50,01:13:52,242,huG0ulu9V3A
-2,I Love Rock n Roll,Joan Jett & the Blackhearts,01:18:00,01:20:57,177,huG0ulu9V3A
-3,Barbie Girl,Aqua,01:23:36,01:26:49,193,huG0ulu9V3A
-4,Bring Me to Life,Evanescence,01:27:13,01:31:13,240,huG0ulu9V3A
-5,Pippa the Ripper,Pipkin Pippa,01:34:55,01:38:16,201,huG0ulu9V3A
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+554,huG0ulu9V3A,1,It's time to say Goodbye,"Sarah Brightman, Andrea Bocelli",01:09:50,4190,01:13:52,242
+555,huG0ulu9V3A,2,I Love Rock n Roll,Joan Jett & the Blackhearts,01:18:00,4680,01:20:57,177
+556,huG0ulu9V3A,3,Barbie Girl,Aqua,01:23:36,5016,01:26:49,193
+557,huG0ulu9V3A,4,Bring Me to Life,Evanescence,01:27:13,5233,01:31:13,240
+558,huG0ulu9V3A,5,Pippa the Ripper,Pipkin Pippa,01:34:55,5695,01:38:16,201

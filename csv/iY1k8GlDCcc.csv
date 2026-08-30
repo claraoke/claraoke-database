@@ -1,22 +1,22 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Bennie and the Jets,Elton John,00:08:22,00:12:27,245,iY1k8GlDCcc
-2,Xue Mao Jiao (Learn to Meow),Xiao Pan Pan & Xiao Feng Feng,00:13:36,00:17:08,212,iY1k8GlDCcc
-3,Dancing Queen (very energetically),ABBA,00:21:59,00:25:55,236,iY1k8GlDCcc
-4,Never Gonna Give You Up,Rick Astley,00:28:46,00:32:23,217,iY1k8GlDCcc
-5,The Long and Winding Road,The Beatles,00:36:01,00:39:45,224,iY1k8GlDCcc
-6,Back to the 80's,Aqua,00:42:40,00:46:33,233,iY1k8GlDCcc
-7,Bumble Bee,Bambee,00:47:25,00:50:41,196,iY1k8GlDCcc
-8,Me & Mr. Jones,Amy Winehouse,00:51:15,00:53:46,151,iY1k8GlDCcc
-9,Misty's Song,Pokemon,00:59:16,01:03:30,254,iY1k8GlDCcc
-10,Everybody Wants to Rule the World,Tears for Fears,01:04:13,01:08:22,249,iY1k8GlDCcc
-11,Bad Romanyance,Lady Gaga,01:09:17,01:14:10,293,iY1k8GlDCcc
-12,WAP,Cardi B and Megan Thee Stallionyan,01:14:50,01:17:45,175,iY1k8GlDCcc
-13,Samishii Nettaigyo (Lonely Tropical Fish),Wink,01:19:01,01:23:30,269,iY1k8GlDCcc
-14,Careless Whisper,George Michael,01:24:37,01:29:12,275,iY1k8GlDCcc
-15,Beautiful Stranger,Madonna,01:31:49,01:36:36,287,iY1k8GlDCcc
-16,La Vie en rose,Edith Piaf,01:39:54,01:43:06,192,iY1k8GlDCcc
-17,Spanish or Vanish,Duolingo,01:43:40,01:44:46,66,iY1k8GlDCcc
-18,Teenage Dream,Katy Perry,01:45:48,01:49:26,218,iY1k8GlDCcc
-19,Time to Say Goodbye (Con te partirò),Andrea Bocelli & Sarah Brightman,01:53:12,01:57:12,240,iY1k8GlDCcc
-20,Ave Maria (full bladder version),Franz Schubert,01:59:01,02:03:30,269,iY1k8GlDCcc
-21,Lilium,Elfen Lied,02:04:01,02:06:02,121,iY1k8GlDCcc
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+647,iY1k8GlDCcc,1,Bennie and the Jets,Elton John,00:08:22,502,00:12:27,245
+648,iY1k8GlDCcc,2,Xue Mao Jiao (Learn to Meow),Xiao Pan Pan & Xiao Feng Feng,00:13:36,816,00:17:08,212
+649,iY1k8GlDCcc,3,Dancing Queen (very energetically),ABBA,00:21:59,1319,00:25:55,236
+650,iY1k8GlDCcc,4,Never Gonna Give You Up,Rick Astley,00:28:46,1726,00:32:23,217
+651,iY1k8GlDCcc,5,The Long and Winding Road,The Beatles,00:36:01,2161,00:39:45,224
+652,iY1k8GlDCcc,6,Back to the 80's,Aqua,00:42:40,2560,00:46:33,233
+653,iY1k8GlDCcc,7,Bumble Bee,Bambee,00:47:25,2845,00:50:41,196
+654,iY1k8GlDCcc,8,Me & Mr. Jones,Amy Winehouse,00:51:15,3075,00:53:46,151
+655,iY1k8GlDCcc,9,Misty's Song,Pokemon,00:59:16,3556,01:03:30,254
+656,iY1k8GlDCcc,10,Everybody Wants to Rule the World,Tears for Fears,01:04:13,3853,01:08:22,249
+657,iY1k8GlDCcc,11,Bad Romanyance,Lady Gaga,01:09:17,4157,01:14:10,293
+658,iY1k8GlDCcc,12,WAP,Cardi B and Megan Thee Stallionyan,01:14:50,4490,01:17:45,175
+659,iY1k8GlDCcc,13,Samishii Nettaigyo (Lonely Tropical Fish),Wink,01:19:01,4741,01:23:30,269
+660,iY1k8GlDCcc,14,Careless Whisper,George Michael,01:24:37,5077,01:29:12,275
+661,iY1k8GlDCcc,15,Beautiful Stranger,Madonna,01:31:49,5509,01:36:36,287
+662,iY1k8GlDCcc,16,La Vie en rose,Edith Piaf,01:39:54,5994,01:43:06,192
+663,iY1k8GlDCcc,17,Spanish or Vanish,Duolingo,01:43:40,6220,01:44:46,66
+664,iY1k8GlDCcc,18,Teenage Dream,Katy Perry,01:45:48,6348,01:49:26,218
+665,iY1k8GlDCcc,19,Time to Say Goodbye (Con te partirò),Andrea Bocelli & Sarah Brightman,01:53:12,6792,01:57:12,240
+666,iY1k8GlDCcc,20,Ave Maria (full bladder version),Franz Schubert,01:59:01,7141,02:03:30,269
+667,iY1k8GlDCcc,21,Lilium,Elfen Lied,02:04:01,7441,02:06:02,121

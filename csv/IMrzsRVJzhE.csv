@@ -1,19 +1,19 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Too Sweet,Hozier,00:09:17,00:13:25,248,IMrzsRVJzhE
-2,Like a Prayer,Madonna,00:19:41,00:25:22,341,IMrzsRVJzhE
-3,Do You Know the Muffin Man? (Believe),Adam Lambert (Cher),00:27:14,00:31:24,250,IMrzsRVJzhE
-4,Casual,Chappell Roan,00:34:34,00:38:22,228,IMrzsRVJzhE
-5,Light the Fire Up in the Night,Persona Q,00:41:10,00:43:47,157,IMrzsRVJzhE
-6,Art Is Dead,Bo Burnham,00:45:53,00:48:16,143,IMrzsRVJzhE
-7,It Wasn't Me,Shaggy feat Rikrok,00:49:36,00:53:23,227,IMrzsRVJzhE
-8,Babooshka,Kate Bush,00:55:23,00:58:48,205,IMrzsRVJzhE
-9,WAP,Cardi B feat Megan Thee Stallion,01:03:29,01:06:25,176,IMrzsRVJzhE
-10,Butter-Fly,Digimon Adventure,01:09:37,01:13:52,255,IMrzsRVJzhE
-11,Listen to Your Heart,Roxette,01:16:22,01:20:21,239,IMrzsRVJzhE
-12,The Sweet Escape,Gwen Stefani,01:23:40,01:27:34,234,IMrzsRVJzhE
-13,Suddenly Seymour,Little Shop of Horrors,01:29:39,01:33:04,205,IMrzsRVJzhE
-14,Sweet Transvestite,The Rocky Horror Picture Show,01:35:49,01:39:10,201,IMrzsRVJzhE
-15,Jack's Lament,The Nightmare Before Christmas,01:43:55,01:47:08,193,IMrzsRVJzhE
-16,Eyesore,Maria Mena,01:49:13,01:52:20,187,IMrzsRVJzhE
-17,Feeling Good,"Nina Simone, Michael Bublé, et al.",01:53:53,01:57:50,237,IMrzsRVJzhE
-18,I Have Nothing,Whitney Houston,01:59:28,02:04:17,289,IMrzsRVJzhE
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+610,IMrzsRVJzhE,1,Too Sweet,Hozier,00:09:17,557,00:13:25,248
+611,IMrzsRVJzhE,2,Like a Prayer,Madonna,00:19:41,1181,00:25:22,341
+612,IMrzsRVJzhE,3,Do You Know the Muffin Man? (Believe),Adam Lambert (Cher),00:27:14,1634,00:31:24,250
+613,IMrzsRVJzhE,4,Casual,Chappell Roan,00:34:34,2074,00:38:22,228
+614,IMrzsRVJzhE,5,Light the Fire Up in the Night,Persona Q,00:41:10,2470,00:43:47,157
+615,IMrzsRVJzhE,6,Art Is Dead,Bo Burnham,00:45:53,2753,00:48:16,143
+616,IMrzsRVJzhE,7,It Wasn't Me,Shaggy feat Rikrok,00:49:36,2976,00:53:23,227
+617,IMrzsRVJzhE,8,Babooshka,Kate Bush,00:55:23,3323,00:58:48,205
+618,IMrzsRVJzhE,9,WAP,Cardi B feat Megan Thee Stallion,01:03:29,3809,01:06:25,176
+619,IMrzsRVJzhE,10,Butter-Fly,Digimon Adventure,01:09:37,4177,01:13:52,255
+620,IMrzsRVJzhE,11,Listen to Your Heart,Roxette,01:16:22,4582,01:20:21,239
+621,IMrzsRVJzhE,12,The Sweet Escape,Gwen Stefani,01:23:40,5020,01:27:34,234
+622,IMrzsRVJzhE,13,Suddenly Seymour,Little Shop of Horrors,01:29:39,5379,01:33:04,205
+623,IMrzsRVJzhE,14,Sweet Transvestite,The Rocky Horror Picture Show,01:35:49,5749,01:39:10,201
+624,IMrzsRVJzhE,15,Jack's Lament,The Nightmare Before Christmas,01:43:55,6235,01:47:08,193
+625,IMrzsRVJzhE,16,Eyesore,Maria Mena,01:49:13,6553,01:52:20,187
+626,IMrzsRVJzhE,17,Feeling Good,"Nina Simone, Michael Bublé, et al.",01:53:53,6833,01:57:50,237
+627,IMrzsRVJzhE,18,I Have Nothing,Whitney Houston,01:59:28,7168,02:04:17,289

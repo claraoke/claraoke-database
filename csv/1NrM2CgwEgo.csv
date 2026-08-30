@@ -1,27 +1,27 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,From Paris to Berlin,Infernal,00:08:03,00:11:00,177,1NrM2CgwEgo
-2,Bing Bang,"Julianna Rose Mauriello (Stephanie, LazyTown)",00:15:07,00:18:19,192,1NrM2CgwEgo
-3,True Love,Fujii Fumiya,00:22:10,00:25:56,226,1NrM2CgwEgo
-4,Skinamarink,"Sharon, Lois & Bram",00:28:32,00:30:51,139,1NrM2CgwEgo
-5,Cowgirl,Bambee,00:33:19,00:36:38,199,1NrM2CgwEgo
-6,Yes We Have No Bananas Today,Jimmy Durante/Billy Jones,00:39:19,00:41:14,115,1NrM2CgwEgo
-7,Femininomenon,Chappell Roan,00:42:11,00:45:50,219,1NrM2CgwEgo
-8,Need You Now,Lady Antebellum,00:46:48,00:50:40,232,1NrM2CgwEgo
-9,The Government Knows,KNOWER,00:51:15,00:54:59,224,1NrM2CgwEgo
-10,Boku wa Motto Pioneer,Chisa Yokoyama (Tenchi Muyo!),00:56:13,01:01:15,302,1NrM2CgwEgo
-11,Creep (Postmodern Jukebox),Radiohead,01:02:43,01:07:27,284,1NrM2CgwEgo
-12,Run to the Hills,Iron Maiden,01:11:27,01:15:19,232,1NrM2CgwEgo
-13,Here's Where the Story Ends,The Sundays,01:18:37,01:22:26,229,1NrM2CgwEgo
-14,Kimagure Romantic,Ikimono-gakari,01:28:42,01:32:42,240,1NrM2CgwEgo
-15,"""Rashiku"" Ikimasho",Meu (Sailor Moon),01:33:03,01:36:33,210,1NrM2CgwEgo
-16,Odoru Pompokolin,B.B.Queens (Chibi Maruko-chan),01:36:39,01:39:50,191,1NrM2CgwEgo
-17,I Sat by the Ocean,Queens of the Stone Age,01:39:57,01:43:50,233,1NrM2CgwEgo
-18,Riptide,Vance Joy,01:44:05,01:47:24,199,1NrM2CgwEgo
-19,Girl U Want,Devo,01:47:33,01:50:28,175,1NrM2CgwEgo
-20,Snake Eater,Cynthia Harrell (Metal Gear Solid),01:50:35,01:53:26,171,1NrM2CgwEgo
-21,I Like To Move It (accidental acapella),Reel 2 Real,01:58:09,01:59:08,59,1NrM2CgwEgo
-22,I Like To Move It (actual),Reel 2 Real,01:59:13,02:03:03,230,1NrM2CgwEgo
-23,Pumped Up Kicks,Foster The People,02:03:17,02:07:10,233,1NrM2CgwEgo
-24,DRIVING MY LOVE,Anri,02:07:13,02:12:00,287,1NrM2CgwEgo
-25,"Komm, süsser Tod",Arianne,02:12:39,02:17:42,303,1NrM2CgwEgo
-26,End of the World,Miley Cyrus,02:19:21,02:23:30,249,1NrM2CgwEgo
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+109,1NrM2CgwEgo,1,From Paris to Berlin,Infernal,00:08:03,483,00:11:00,177
+110,1NrM2CgwEgo,2,Bing Bang,"Julianna Rose Mauriello (Stephanie, LazyTown)",00:15:07,907,00:18:19,192
+111,1NrM2CgwEgo,3,True Love,Fujii Fumiya,00:22:10,1330,00:25:56,226
+112,1NrM2CgwEgo,4,Skinamarink,"Sharon, Lois & Bram",00:28:32,1712,00:30:51,139
+113,1NrM2CgwEgo,5,Cowgirl,Bambee,00:33:19,1999,00:36:38,199
+114,1NrM2CgwEgo,6,Yes We Have No Bananas Today,Jimmy Durante/Billy Jones,00:39:19,2359,00:41:14,115
+115,1NrM2CgwEgo,7,Femininomenon,Chappell Roan,00:42:11,2531,00:45:50,219
+116,1NrM2CgwEgo,8,Need You Now,Lady Antebellum,00:46:48,2808,00:50:40,232
+117,1NrM2CgwEgo,9,The Government Knows,KNOWER,00:51:15,3075,00:54:59,224
+118,1NrM2CgwEgo,10,Boku wa Motto Pioneer,Chisa Yokoyama (Tenchi Muyo!),00:56:13,3373,01:01:15,302
+119,1NrM2CgwEgo,11,Creep (Postmodern Jukebox),Radiohead,01:02:43,3763,01:07:27,284
+120,1NrM2CgwEgo,12,Run to the Hills,Iron Maiden,01:11:27,4287,01:15:19,232
+121,1NrM2CgwEgo,13,Here's Where the Story Ends,The Sundays,01:18:37,4717,01:22:26,229
+122,1NrM2CgwEgo,14,Kimagure Romantic,Ikimono-gakari,01:28:42,5322,01:32:42,240
+123,1NrM2CgwEgo,15,"""Rashiku"" Ikimasho",Meu (Sailor Moon),01:33:03,5583,01:36:33,210
+124,1NrM2CgwEgo,16,Odoru Pompokolin,B.B.Queens (Chibi Maruko-chan),01:36:39,5799,01:39:50,191
+125,1NrM2CgwEgo,17,I Sat by the Ocean,Queens of the Stone Age,01:39:57,5997,01:43:50,233
+126,1NrM2CgwEgo,18,Riptide,Vance Joy,01:44:05,6245,01:47:24,199
+127,1NrM2CgwEgo,19,Girl U Want,Devo,01:47:33,6453,01:50:28,175
+128,1NrM2CgwEgo,20,Snake Eater,Cynthia Harrell (Metal Gear Solid),01:50:35,6635,01:53:26,171
+129,1NrM2CgwEgo,21,I Like To Move It (accidental acapella),Reel 2 Real,01:58:09,7089,01:59:08,59
+130,1NrM2CgwEgo,22,I Like To Move It (actual),Reel 2 Real,01:59:13,7153,02:03:03,230
+131,1NrM2CgwEgo,23,Pumped Up Kicks,Foster The People,02:03:17,7397,02:07:10,233
+132,1NrM2CgwEgo,24,DRIVING MY LOVE,Anri,02:07:13,7633,02:12:00,287
+133,1NrM2CgwEgo,25,"Komm, süsser Tod",Arianne,02:12:39,7959,02:17:42,303
+134,1NrM2CgwEgo,26,End of the World,Miley Cyrus,02:19:21,8361,02:23:30,249

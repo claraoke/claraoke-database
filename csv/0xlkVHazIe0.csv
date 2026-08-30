@@ -1,6 +1,6 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Sweet Transvestite,Tim Curry,00:29:50,00:33:10,200,0xlkVHazIe0
-2,Don't Stop Me Now,Queen,00:36:05,00:39:44,219,0xlkVHazIe0
-3,My Heart Will Go On,Celine Dion,00:41:37,00:46:36,299,0xlkVHazIe0
-4,A Whole New World,Lea Salonga & Brad Kane (Aladdin),00:49:08,00:51:48,160,0xlkVHazIe0
-5,Ave Maria,Franz Schubert,00:53:15,00:57:42,267,0xlkVHazIe0
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+92,0xlkVHazIe0,1,Sweet Transvestite,Tim Curry,00:29:50,1790,00:33:10,200
+93,0xlkVHazIe0,2,Don't Stop Me Now,Queen,00:36:05,2165,00:39:44,219
+94,0xlkVHazIe0,3,My Heart Will Go On,Celine Dion,00:41:37,2497,00:46:36,299
+95,0xlkVHazIe0,4,A Whole New World,Lea Salonga & Brad Kane (Aladdin),00:49:08,2948,00:51:48,160
+96,0xlkVHazIe0,5,Ave Maria,Franz Schubert,00:53:15,3195,00:57:42,267

@@ -1,18 +1,18 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,"Good Luck, Atheist!",Custom Wood Burning,00:09:42,00:13:15,213,TWnhBKxa9D0
-2,Biblical,Custom Wood Burning,00:16:30,00:20:16,226,TWnhBKxa9D0
-3,Red Wine WaferNova,Custom Wood Burning,00:25:32,00:28:42,190,TWnhBKxa9D0
-4,MOD ES TY!,Custom Wood Burning,00:35:46,00:38:48,182,TWnhBKxa9D0
-5,Fake Christian Club,Custom Wood Burning,00:42:37,00:46:57,260,TWnhBKxa9D0
-6,My Kink Is Karma,Chappell Roan (Sister Clara Original ver.),00:53:55,00:57:36,221,TWnhBKxa9D0
-7,I Love You Jesus,Trisha Paytas,01:08:29,01:11:11,162,TWnhBKxa9D0
-8,This Little Light of Mine,Unknown Artist,01:15:35,01:18:19,164,TWnhBKxa9D0
-9,Away in a Manger,Unknown Artist,01:23:51,01:25:46,115,TWnhBKxa9D0
-10,"Pharaoh, Pharaoh",Unknown Artist,01:29:44,01:31:58,134,TWnhBKxa9D0
-11,Hallelujah,Leonard Cohen,01:32:53,01:36:38,225,TWnhBKxa9D0
-12,When You Believe,Mariah Carey and Whitney Houston,01:38:57,01:43:54,297,TWnhBKxa9D0
-13,Like a Prayer,Madonna,01:44:51,01:50:17,326,TWnhBKxa9D0
-14,Ave Maria,Franz Schubert,01:50:56,01:55:22,266,TWnhBKxa9D0
-15,Edge me till I goon,Rizz Records,01:59:13,02:02:30,197,TWnhBKxa9D0
-16,Casual,Chappell Roan (Sister Clara Original ver.),02:07:37,02:11:21,224,TWnhBKxa9D0
-17,Down to the River to Pray,Alison Krauss,02:18:57,02:21:50,173,TWnhBKxa9D0
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1336,TWnhBKxa9D0,1,"Good Luck, Atheist!",Custom Wood Burning,00:09:42,582,00:13:15,213
+1337,TWnhBKxa9D0,2,Biblical,Custom Wood Burning,00:16:30,990,00:20:16,226
+1338,TWnhBKxa9D0,3,Red Wine WaferNova,Custom Wood Burning,00:25:32,1532,00:28:42,190
+1339,TWnhBKxa9D0,4,MOD ES TY!,Custom Wood Burning,00:35:46,2146,00:38:48,182
+1340,TWnhBKxa9D0,5,Fake Christian Club,Custom Wood Burning,00:42:37,2557,00:46:57,260
+1341,TWnhBKxa9D0,6,My Kink Is Karma,Chappell Roan (Sister Clara Original ver.),00:53:55,3235,00:57:36,221
+1342,TWnhBKxa9D0,7,I Love You Jesus,Trisha Paytas,01:08:29,4109,01:11:11,162
+1343,TWnhBKxa9D0,8,This Little Light of Mine,Unknown Artist,01:15:35,4535,01:18:19,164
+1344,TWnhBKxa9D0,9,Away in a Manger,Unknown Artist,01:23:51,5031,01:25:46,115
+1345,TWnhBKxa9D0,10,"Pharaoh, Pharaoh",Unknown Artist,01:29:44,5384,01:31:58,134
+1346,TWnhBKxa9D0,11,Hallelujah,Leonard Cohen,01:32:53,5573,01:36:38,225
+1347,TWnhBKxa9D0,12,When You Believe,Mariah Carey and Whitney Houston,01:38:57,5937,01:43:54,297
+1348,TWnhBKxa9D0,13,Like a Prayer,Madonna,01:44:51,6291,01:50:17,326
+1349,TWnhBKxa9D0,14,Ave Maria,Franz Schubert,01:50:56,6656,01:55:22,266
+1350,TWnhBKxa9D0,15,Edge me till I goon,Rizz Records,01:59:13,7153,02:02:30,197
+1351,TWnhBKxa9D0,16,Casual,Chappell Roan (Sister Clara Original ver.),02:07:37,7657,02:11:21,224
+1352,TWnhBKxa9D0,17,Down to the River to Pray,Alison Krauss,02:18:57,8337,02:21:50,173

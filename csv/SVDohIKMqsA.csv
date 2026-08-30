@@ -1,20 +1,20 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,Love Story,Taylor Swift,00:04:43,00:08:36,233,SVDohIKMqsA
-2,You Belong With Me,Taylor Swift,00:11:49,00:15:40,231,SVDohIKMqsA
-3,Hello Kitty,Avril Lavigne,00:17:53,00:21:07,194,SVDohIKMqsA
-4,You Oughta Know,Alanis Morisette,00:23:18,00:27:32,254,SVDohIKMqsA
-5,You Know,Ninja Sex Party,00:30:11,00:34:44,273,SVDohIKMqsA
-6,Misery Business,Paramore,00:39:05,00:42:35,210,SVDohIKMqsA
-7,Into You,Ariana Grande,00:48:04,00:52:03,239,SVDohIKMqsA
-8,Rehab,Amy Winehouse,00:54:45,00:58:21,216,SVDohIKMqsA
-9,It's All Been Done,Barenaked Ladies,01:01:04,01:04:24,200,SVDohIKMqsA
-10,So This Is Love,Ilene Woods and Mike Douglas,01:06:19,01:07:50,91,SVDohIKMqsA
-11,Once Upon A Dream,Bill Shirley and Mary Costa,01:08:33,01:11:16,163,SVDohIKMqsA
-12,Nobody,Mitski,01:14:56,01:18:08,192,SVDohIKMqsA
-13,Legends Never Die,League of Legends,01:30:55,01:34:50,235,SVDohIKMqsA
-14,Anal Beads (Ukukele Tabs),Pink Guy,01:38:35,01:40:40,125,SVDohIKMqsA
-15,翼をください (Tsubasa Wo Kudasai),赤い鳥 (Junko Yamamoto),01:42:14,01:45:43,209,SVDohIKMqsA
-16,翼をください (Tsubasa Wo Kudasai),ベッキー･クルーエル feat. クルーエル・エンジェルス (Beckii Cruel ft. Cruel Angels),01:46:04,01:46:47,43,SVDohIKMqsA
-17,Danjo,Taro,01:48:40,01:50:46,126,SVDohIKMqsA
-18,Frozen,Madonna,01:53:28,01:59:35,367,SVDohIKMqsA
-19,Playing Favourites,Kaminari Clara,01:59:37,02:02:42,185,SVDohIKMqsA
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1236,SVDohIKMqsA,1,Love Story,Taylor Swift,00:04:43,283,00:08:36,233
+1237,SVDohIKMqsA,2,You Belong With Me,Taylor Swift,00:11:49,709,00:15:40,231
+1238,SVDohIKMqsA,3,Hello Kitty,Avril Lavigne,00:17:53,1073,00:21:07,194
+1239,SVDohIKMqsA,4,You Oughta Know,Alanis Morisette,00:23:18,1398,00:27:32,254
+1240,SVDohIKMqsA,5,You Know,Ninja Sex Party,00:30:11,1811,00:34:44,273
+1241,SVDohIKMqsA,6,Misery Business,Paramore,00:39:05,2345,00:42:35,210
+1242,SVDohIKMqsA,7,Into You,Ariana Grande,00:48:04,2884,00:52:03,239
+1243,SVDohIKMqsA,8,Rehab,Amy Winehouse,00:54:45,3285,00:58:21,216
+1244,SVDohIKMqsA,9,It's All Been Done,Barenaked Ladies,01:01:04,3664,01:04:24,200
+1245,SVDohIKMqsA,10,So This Is Love,Ilene Woods and Mike Douglas,01:06:19,3979,01:07:50,91
+1246,SVDohIKMqsA,11,Once Upon A Dream,Bill Shirley and Mary Costa,01:08:33,4113,01:11:16,163
+1247,SVDohIKMqsA,12,Nobody,Mitski,01:14:56,4496,01:18:08,192
+1248,SVDohIKMqsA,13,Legends Never Die,League of Legends,01:30:55,5455,01:34:50,235
+1249,SVDohIKMqsA,14,Anal Beads (Ukukele Tabs),Pink Guy,01:38:35,5915,01:40:40,125
+1250,SVDohIKMqsA,15,翼をください (Tsubasa Wo Kudasai),赤い鳥 (Junko Yamamoto),01:42:14,6134,01:45:43,209
+1251,SVDohIKMqsA,16,翼をください (Tsubasa Wo Kudasai),ベッキー･クルーエル feat. クルーエル・エンジェルス (Beckii Cruel ft. Cruel Angels),01:46:04,6364,01:46:47,43
+1252,SVDohIKMqsA,17,Danjo,Taro,01:48:40,6520,01:50:46,126
+1253,SVDohIKMqsA,18,Frozen,Madonna,01:53:28,6808,01:59:35,367
+1254,SVDohIKMqsA,19,Playing Favourites,Kaminari Clara,01:59:37,7177,02:02:42,185

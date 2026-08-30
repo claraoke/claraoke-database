@@ -1,21 +1,21 @@
-TRACK,TITLE,ARTIST,STARTTIME,ENDTIME,DURATION,VIDEOID
-1,My All,Mariah Carey,00:06:28,00:10:18,230,VDEEAoB6nj8
-2,One Moment in Time,Whitney Houston,00:11:54,00:16:29,275,VDEEAoB6nj8
-3,Karma Chameleon,Culture Club,00:18:48,00:22:45,237,VDEEAoB6nj8
-4,In Da Club,50 Cent,00:26:02,00:29:12,190,VDEEAoB6nj8
-5,Casual,Chappell Roan,00:31:00,00:34:46,226,VDEEAoB6nj8
-6,touch tank,quinnie,00:36:23,00:39:27,184,VDEEAoB6nj8
-7,I Touch Myself,Divinyls,00:40:33,00:44:24,231,VDEEAoB6nj8
-8,Uninvited,Alanis Morissette,00:49:00,00:53:34,274,VDEEAoB6nj8
-9,Don't Speak,No Doubt,00:54:11,00:58:50,279,VDEEAoB6nj8
-10,I'm Gonna Be (500 Miles),The Proclaimers ( 1:00:15 ),01:01:15,01:04:48,213,VDEEAoB6nj8
-11,golden hour,JVKE,01:07:52,01:11:21,209,VDEEAoB6nj8
-12,Paper Bag,Fiona Apple,01:12:07,01:15:46,219,VDEEAoB6nj8
-13,光 (Hikari),宇多田ヒカル (Hikaru Utada),01:19:50,01:24:49,299,VDEEAoB6nj8
-14,My Immortal,Evanescence,01:27:07,01:31:27,260,VDEEAoB6nj8
-15,Skyfall,Adele,01:32:52,01:37:35,283,VDEEAoB6nj8
-16,Snake Eater,Cynthia Harrell,01:38:40,01:41:34,174,VDEEAoB6nj8
-17,Pink Pony Club,Chappell Roan,01:43:12,01:47:36,264,VDEEAoB6nj8
-18,Thank You,Dido,01:49:15,01:52:52,217,VDEEAoB6nj8
-19,If I Ain't Got You,Alicia Keys,01:54:51,01:58:38,227,VDEEAoB6nj8
-20,All By Myself,Céline Dion & Eric Carmen,02:00:48,02:05:37,289,VDEEAoB6nj8
+ID,VIDEOID,TRACK,TITLE,ARTIST,STARTTIME,START_SECONDS,ENDTIME,DURATION
+1369,VDEEAoB6nj8,1,My All,Mariah Carey,00:06:28,388,00:10:18,230
+1370,VDEEAoB6nj8,2,One Moment in Time,Whitney Houston,00:11:54,714,00:16:29,275
+1371,VDEEAoB6nj8,3,Karma Chameleon,Culture Club,00:18:48,1128,00:22:45,237
+1372,VDEEAoB6nj8,4,In Da Club,50 Cent,00:26:02,1562,00:29:12,190
+1373,VDEEAoB6nj8,5,Casual,Chappell Roan,00:31:00,1860,00:34:46,226
+1374,VDEEAoB6nj8,6,touch tank,quinnie,00:36:23,2183,00:39:27,184
+1375,VDEEAoB6nj8,7,I Touch Myself,Divinyls,00:40:33,2433,00:44:24,231
+1376,VDEEAoB6nj8,8,Uninvited,Alanis Morissette,00:49:00,2940,00:53:34,274
+1377,VDEEAoB6nj8,9,Don't Speak,No Doubt,00:54:11,3251,00:58:50,279
+1378,VDEEAoB6nj8,10,I'm Gonna Be (500 Miles),The Proclaimers ( 1:00:15 ),01:01:15,3675,01:04:48,213
+1379,VDEEAoB6nj8,11,golden hour,JVKE,01:07:52,4072,01:11:21,209
+1380,VDEEAoB6nj8,12,Paper Bag,Fiona Apple,01:12:07,4327,01:15:46,219
+1381,VDEEAoB6nj8,13,光 (Hikari),宇多田ヒカル (Hikaru Utada),01:19:50,4790,01:24:49,299
+1382,VDEEAoB6nj8,14,My Immortal,Evanescence,01:27:07,5227,01:31:27,260
+1383,VDEEAoB6nj8,15,Skyfall,Adele,01:32:52,5572,01:37:35,283
+1384,VDEEAoB6nj8,16,Snake Eater,Cynthia Harrell,01:38:40,5920,01:41:34,174
+1385,VDEEAoB6nj8,17,Pink Pony Club,Chappell Roan,01:43:12,6192,01:47:36,264
+1386,VDEEAoB6nj8,18,Thank You,Dido,01:49:15,6555,01:52:52,217
+1387,VDEEAoB6nj8,19,If I Ain't Got You,Alicia Keys,01:54:51,6891,01:58:38,227
+1388,VDEEAoB6nj8,20,All By Myself,Céline Dion & Eric Carmen,02:00:48,7248,02:05:37,289
