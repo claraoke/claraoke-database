@@ -4,3 +4,4 @@ hashes.txt
 import_from_csv.py
 validate_csv.py
 database_update.py
+csv_old/
